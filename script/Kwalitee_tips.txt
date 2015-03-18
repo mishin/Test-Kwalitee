@@ -1,0 +1,8 @@
+# yum install perl-Module-CPANTS-Analyse
+# cpants_lint.pl /path/to/my/module.tar.gz
+It already helped me get Test-AutoBuild perfect…
+$ cpants_lint.pl Test-AutoBuild-1.2.2.tar.gz
+Checked dist            Test-AutoBuild-1.2.2.tar.gz
+Kwalitee rating         112.50% (27/24)
+
+Congratulations for building a 'perfect' distribution!
