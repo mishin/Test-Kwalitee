@@ -14,3 +14,9 @@ http://neilb.org/2014/07/01/dzil-kwalitee.html
 dzil kwalitee
 
 milla  kwalitee
+
+
+ * [new tag]         5.18.0.1.31 -> 5.18.0.1.31
+ ! [rejected]        5.18.0.1.30 -> 5.18.0.1.30 (already exists)
+error: failed to push some refs to 'https://github.com/mishin/POD-to-RU.git'
+hint: Updates were rejected because the tag already exists in the remote.
